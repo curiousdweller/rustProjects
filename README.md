@@ -3,5 +3,5 @@ List of small projects in Rust, they include all exercises in the rust book, my 
 
 Also an introduction to a series of articels that take a look into the inner workings of susbtrate
 
-#TODO
+# TODO
 Add /target folders to .gitignore
