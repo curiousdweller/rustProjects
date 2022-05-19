@@ -1,0 +1,1 @@
+/Users/fadumoali/rustBook/server/target/debug/another: /Users/fadumoali/rustBook/procedural_macros/src/lib.rs /Users/fadumoali/rustBook/server/src/bin/another.rs /Users/fadumoali/rustBook/server/src/lib.rs

@@ -1,0 +1,3 @@
+true
+Looking for: yo 
+In: powm.txt
