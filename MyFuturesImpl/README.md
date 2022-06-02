@@ -1,0 +1,1 @@
+Implementing simple futures, with some useful coments, to understand async better in rust, inspiration from [this mini book](https://cfsamson.github.io/books-futures-explained/)
