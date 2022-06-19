@@ -4,3 +4,6 @@ pub mod rem_nth_node;
 pub mod rev_int;
 pub mod zizag_conversion;
 pub mod str_to_int;
+pub mod most_water;
+pub mod int_to_roman;
+pub mod three_sum;
