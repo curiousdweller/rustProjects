@@ -87,7 +87,6 @@ mod tests {
                 })))
                 })))
         })));
-`
     
         assert_eq!(inorder_traversal(node), iterative(node2));
     }
